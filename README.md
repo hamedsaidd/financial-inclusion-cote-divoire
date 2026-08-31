@@ -63,9 +63,11 @@ in Côte d'Ivoire and across the WAEMU region.
 ```bash
    jupyter notebook notebooks/analysis.ipynb
 ```
+
+---
 ## 📁 Repository structure
 
-```text
+```
 financial-inclusion-cote-divoire/
 ├── data/
 │   └── globalfindex-database-2021.xlsx   # World Bank Global Findex 2021 data
@@ -79,6 +81,8 @@ financial-inclusion-cote-divoire/
 ├── LICENSE 
 ├── README.md
 └── requirements.txt
+```
+---
 
 ## ⚠️ Limitations
 
@@ -100,6 +104,8 @@ This is a first exploratory analysis. Key limitations include:
 - Compare WAEMU outcomes with other African regions such as the East African
   Community.
 
+--- 
+
   ## 👤 About
 
 I'm **Hamed Diomandé**, a Data Analyst with a Master's degree in Mathematics
@@ -110,6 +116,7 @@ of data to better understand development challenges in West Africa.
 
 - 🔗 LinkedIn: [Hamed Diomandé](https://www.linkedin.com/in/hamed-diomande-774079160/)
 
+*Feedback and issues welcome — feel free to open an issue or reach out on LinkedIn.*
 
 ## 📄 License
 
