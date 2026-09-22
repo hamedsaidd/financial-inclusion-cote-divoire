@@ -23,7 +23,7 @@ combining a local perspective with internationally comparable Global Findex data
 In 2021, account ownership in Côte d'Ivoire reached **51%**.
 
 Among the **6 WAEMU countries with available data**, Côte d'Ivoire ranked
-**2 out of 8**. Senegal recorded the highest rate at **56%**, while
+**2**. Senegal recorded the highest rate at **56%**, while
 Burkina recorded the lowest at **36%**.
 
 *Niger and Guinea-Bissau are excluded from the 2021 comparison because data for this indicator is unavailable in the dataset.*
@@ -41,7 +41,7 @@ The data shows sustained progress across the available Global Findex survey year
 
 ![Mobile money role](output/03_mobile_money_role.png)
 
-In 2021, **[X]% of adults in Côte d'Ivoire owned a mobile money account**.
+In 2021, **40% of adults in Côte d'Ivoire owned a mobile money account**.
 
 The comparison highlights the importance of mobile-based financial services
 in Côte d'Ivoire and across the WAEMU region.
