@@ -1,6 +1,6 @@
 # Financial Inclusion in Côte d'Ivoire — WAEMU Zone Analysis
 
-> **In 2021, 51% of adults in Côte d'Ivoire had a formal financial account.
+> **In 2021, 51% of Ivorian adults held at least one account with a financial institution or a mobile money provider.
 > This project explores what that number really means — in regional context,
 > over time, and through the lens of mobile money.**
 
