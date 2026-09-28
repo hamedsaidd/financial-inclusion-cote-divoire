@@ -41,7 +41,7 @@ The data shows sustained progress across the available Global Findex survey year
 
 ![Mobile money role](output/03_mobile_money_role.png)
 
-In 2021, **40% of adults in Côte d'Ivoire owned a mobile money account**.
+In 2021, **40% of adults in Côte d'Ivoire owned a mobile money account**. Mobile Money thus accounted for nearly 78% of financial account holders overall. In other words, **out of ten Ivorian adults with at least one financial account, about eight used Mobile Money.**
 
 The comparison highlights the importance of mobile-based financial services
 in Côte d'Ivoire and across the WAEMU region.
